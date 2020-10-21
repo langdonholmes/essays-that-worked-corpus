@@ -14,6 +14,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           All works collected here are publically available. Each source is grouped and cited. The corpus itself may be used and modified freely, assuming the original distributors are referenced. </p>
         <p>
           This is a specialized corpus created for the purpose of analyzing personal statements.</p>
+				<p>
+	          This document contains personal statements published by commercial entities</p>
 			</publicationStmt>
 			<sourceDesc>
 				<p>

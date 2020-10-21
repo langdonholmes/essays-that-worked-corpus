@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Essays that Worked Corpus (ETWC)</title>
+				<author>Langdon Holmes</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>
+          All works collected here are publically available. Each source is grouped and cited. The corpus itself may be used and modified freely, assuming the original distributors are referenced. </p>
+        <p>
+          This is a specialized corpus created for the purpose of analyzing personal statements.</p>
+        <p>
+          This document contains personal statements published by commercial entities</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>
+          The sources for this corpus are public websites, mostly .edu addresses that have example personal statement available to prospective students.</p>
+				</sourceDesc>
+			</fileDesc>
+		</teiHeader>
+		<TEI xml:id="XXXX">
+			<teiHeader>
+				<fileDesc>
+					<titleStmt>
+						<title>XXXXXXXXXXXX</title>
+					</titleStmt>
+					<publicationStmt>
+						<authority>XXXXXXX</authority>
+					</publicationStmt>
+					<sourceDesc>
+						<bibl>
+							<ref target="XXXXXXX"/>
+							<state type="USNRank" key="XXXXXXX"/>
+							<state type="domain" key="edu"/>
+							<date when="2020">2020</date>
+						</bibl>
+					</sourceDesc>
+				</fileDesc>
+			</teiHeader>
+			<text>
+				<group>
+					<text>
+						<front>
+							<docTitle>
+								<titlePart>Sheboygan, Wis.</titlePart>
+							</docTitle>
+							<docAuthor>Heqing “Amy” Zhang</docAuthor>
+						</front>
+						<body>
+							<p>XXXX</p>
+						</body>
+					</text>
+			</group>
+		</text>
+		</TEI>
+		<TEI xml:id="XXX">
+			<teiHeader>
+				<fileDesc>
+					<titleStmt>
+						<title>XXXXXXXXXXXX</title>
+					</titleStmt>
+					<publicationStmt>
+						<authority>XXXXXXX</authority>
+					</publicationStmt>
+					<sourceDesc>
+						<bibl>
+							<ref target="XXXXXXX"/>
+							<state type="USNRank" key="XXXXXXX"/>
+							<state type="domain" key="edu"/>
+							<date when="2020">2020</date>
+						</bibl>
+					</sourceDesc>
+				</fileDesc>
+			</teiHeader>
+			<text>
+				<group>
+					<text>
+						<front>
+							<docAuthor>XXXXX</docAuthor>
+						</front>
+						<body>
+							<p>XXXX</p>
+						</body>
+					</text>
+			</group>
+		</text>
+		</TEI>
+		<TEI xml:id="XXXXXX">
+			<teiHeader>
+				<fileDesc>
+					<titleStmt>
+						<title>XXXXXXXXXXXX</title>
+					</titleStmt>
+					<publicationStmt>
+						<authority>XXXXXXX</authority>
+					</publicationStmt>
+					<sourceDesc>
+						<bibl>
+							<ref target="XXXXXXX"/>
+							<state type="USNRank" key="XXXXXXX"/>
+							<state type="domain" key="edu"/>
+							<date when="2020">2020</date>
+						</bibl>
+					</sourceDesc>
+				</fileDesc>
+			</teiHeader>
+			<text>
+				<group>
+					<text>
+						<front>
+							<docAuthor>XXXXXXX</docAuthor>
+						</front>
+						<body>
+							<p>XXXX</p>
+						</body>
+					</text>
+			</group>
+		</text>
+		</TEI>
+	</teiCorpus>
