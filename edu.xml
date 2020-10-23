@@ -23,7 +23,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 				</sourceDesc>
 			</fileDesc>
 		</teiHeader>
-		<TEI xml:id="JHU">
+		<TEI xml:id="JHU2020">
 			<teiHeader>
 				<fileDesc>
 					<titleStmt>
@@ -532,6 +532,340 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 			</group>
 		</text>
 		</TEI>
+		<TEI xml:id="CC">
+			<teiHeader>
+				<fileDesc>
+					<titleStmt>
+						<title>Essays that Worked!</title>
+					</titleStmt>
+					<publicationStmt>
+						<authority>Connecticut Colege</authority>
+					</publicationStmt>
+					<sourceDesc>
+						<bibl>
+							<ref target="https://www.conncoll.edu/admission/apply/essays-that-worked/taylor-austin-24/"/>
+							<state type="USNScore" key="72"/>
+							<state type="domain" key="edu"/>
+							<date when="2020">2020</date>
+						</bibl>
+					</sourceDesc>
+				</fileDesc>
+			</teiHeader>
+			<text>
+				<group>
+					<text>
+						<front>
+							<docAuthor>Taylor Austin</docAuthor>
+						</front>
+						<body>
+							<p>The ground beneath me began to shake as an oil truck instantly burst into flames. A massive ball of fire flared into the sky, illuminating my awestruck eyes. Suddenly, hundreds of gallons of water rushed down onto the truck, safely extinguishing the blaze. “CUT!” a director yelled. I cheered, astonished by the scene I had just witnessed.</p>
+
+							<p>My love for Hollywood began with moments like these from my childhood. Disney’s Hollywood Studios was home to attractions like The Great Movie Ride and The Studio Backlot Tour, both of which introduced me to the special effects, intricate illusions, and thrilling stunts seen in professional films. These two attractions were early indicators of my love for filmmaking, I just didn’t know it yet.</p>
+
+							<p>Years later, I am still captivated by the magic of cinema. Whether it be a summer blockbuster, an Oscar-hopeful, or a cult classic, I’ll take any opportunity I can get to experience an original film. For a few hours, I can forget about the world around me, becoming completely immersed in the universe on-screen. Characters come alive, their personalities and stories intertwining themselves with real-life experiences of my own.</p>
+
+							<p>I’ve always been what you would call a “tomboy”, a far-from-fragile girl who loves football and loathes dresses. Having strong female characters like Hermione Granger and Princess Leia to look up to on-screen has had a profound impact on my confidence as a young woman. Seeing another woman hold her ground and stand up for herself was truly inspiring to me. I may not wield a wand or a blaster, but I’ve certainly used the strength of these characters as a personal inspiration to stay confident and secure in myself.</p>
+
+							<p>My passion for film does not end with characterization. I am just as invested in the technical, behind-the-scenes aspects of cinema. Cinematographers bring stunning landscapes and perfectly-framed shots to life, invoking awe and emotion in both casual moviegoers and film fanatics. Lighting designers shape a film’s mood and tone, adding flares of emotion and rich symbolism to climatic scenes.</p>
+
+							<p>I still have so much to learn about filmmaking, and I cannot wait to tackle the challenges that come with producing a film. When I do, I know that I’ll put my heart into it. Maybe my protagonist will defy the stereotypes that surround young women, choosing jeans over skirts and football over dance. Maybe she’ll love brisk autumn mornings, and never understand the appeal of hot, sticky, summer afternoons. Maybe she’ll discover her peculiar affinity for both science and cinema. Whichever direction I decide to take my characters and my story, my life experiences will have a huge impact on the final product. This is yet another thing that I love about movies; they are entirely unique to the individual who creates them. No two people could create the same exact film no matter how hard they tried — there’s always a little bit of a director’s soul woven into their work.</p>
+
+							<p>I’m still unsure whether I’ll follow my passion for film into a full-time career or a part-time hobby. If I decide to pursue filmmaking, I hope to use my platform to spread a message of hope, perseverance, and strength. Films can reach millions, possibly even billions of people, giving me the perfect opportunity to make a profound impact on someone’s life. If just one person can be inspired by one of my characters, much like I was by Hermione and Leia, I’ll be satisfied. Even if I never sell out theaters or break a box office record, I will have achieved success if I can make someone’s life just a little bit better through my work. Through filmmaking, I hope to invoke the same sense of wonder and awe that I once felt as I experienced the magic of cinema for the very first time.</p>
+						</body>
+						<note>
+							<p>Taylor's essay immediately grabs my attention with its dramatic introduction, but what really draws me in is the way she abruptly changes our expectations for the essay at the end of the first paragraph. Throughout the rest of the essay, Taylor sticks to a tight narrative, weaving in examples of cinematic heroines and personal experiences to illustrate why she's attracted to the art of film. This essay captures a piece of her personality that might not be so evident at the surface level, and that's what makes it successful.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Luke Sparreo</docAuthor>
+						</front>
+						<body>
+							<p>These days, birds are losing the battle of favored domestic animal to dogs and cats. At best, they're an easily forgotten blot in the otherwise clear sky, and at worst, they're nasty pests associated with filth and disease. But for many years, birds were something much greater, the catalyst of folklore and tales for nearly every culture around the world.</p>
+
+							<p>We've all heard some iteration of a bird story before: Common characters you might recall include the wise owl, mischievous raven, vain peacock, and motherly hen. I was introduced to these stories early on, first captivated by the avian parables I listened to on CDs, and they became an integral part of my early years. I can still remember proudly reciting "The Ant and the Magpie" word for word to my parents, an important tale reminding listeners to save resources for a time in need, represented by the winter in the animal world.</p>
+
+							<p>As I got older, my love for birds persisted, but the influence those childlike stories had on me waned. After all, none of my classmates proclaimed their love of dogs stemmed from a Danish fairytale or Chinese folklore. I figured the reason I loved birds was shallower: I enjoyed the startling, colorful plumage and the joyous calls I heard outside my window. No longer were birds a central part of my identity; instead, they became an answer when I had to state my favorite animal during a summer camp icebreaker.</p>
+
+							<p>It wasn't until I was well into high school, nearly a decade after I last closed the cover, that I found one of my favorite childhood books, "Why Snails Have Shells," in the depths of my closet. Rediscovering this book reminded me of the importance I placed on the lessons I learned from the cherished bird characters. Leafing through the pages and rereading the familiar stories, I realized the straightforward teachings of the birds were more relevant to my current life than they ever were in my childhood. Birds once again were not simply my favorite animal, they guided the way I reacted in challenging situations, which - like for most of my peers - came in a barrage as I got older.</p>
+
+							<p>The lesson that permeates my life today is from an old Chinese proverb, famously summed up by poet Maya Angelou as "A bird doesn't sing because it has an answer, it sings because it has a song." High school life, especially for my generation, is hyper-focused on the approval of others. Instagram is littered with polls asking if outfits are "ok," popularity is measured by the average number of comments you get in response to your posts, and every joke uttered is followed by a scan of the room to make sure at least someone is laughing. Contrastingly, the bird doesn't focus on the answer it receives from its song; in fact, it doesn't even expect an answer. The bird sings because it wishes to, because of the joy it experiences when doing so.</p>
+
+							<p>It can be easy to get swept away in the desire to please, but the personal mantra I've adopted reminds me of the importance of doing things for the sake of making yourself happy, not others. I build relationships I genuinely value, I invest my time in activities I love to do, and I express myself in ways that bring me joy. Although the stories and proverbs I learned when I was younger originated from distant times and places, they have woven themselves into my values and shaped me into the person I am today.</p>
+						</body>
+						<note>
+							<p>Luke’s essay has a poetic quality that invites you to continue reading. His prose is simple and well written. What I like the most about his essay is that I am able to have a glimpse into his interests and values.  He is able to add dimension to his application by showcasing a different side of him from what we are able to see in the admission application.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Anonymous</docAuthor>
+						</front>
+						<body>
+							<p>In the dimly lit room, I sat huddled under my lamp as my fingers repeated the rhythmic movements of the needle disappearing and reappearing under the banarsi fabric while I carefully folded its edges, taming the wayward golden threads to patch it over a hole burnt in the citrine mysore silk lehnga (a wide-hemmed skirt). Accentuated with hundreds of golden sequins and zardozi work on its hem, shining whenever it caught the light of the lamp, the eight and a half yards of fabric seemed like a jeweled sea at my feet. Trying to be as quiet as possible, I imagined the joy I'd see in my sister's eyes who had gone to bed a while ago crying her eyes out over a dream dress gone to 'irreparable' disaster the night before Eid.</p>
+
+							<p>Tying off the final loose thread, I held it up to the light, proud how her lehnga sparkled even more than before and quietly delivered to her room. Salvaging the day for my sister was a risk worth taking.</p>
+
+							<p>The next morning as my sister fawned over the new design, came the reaction I was bracing for.</p>
+
+							<p>"Is this what you were doing all night?"</p>
+
+							<p>I could hear the disdain in my father's voice, disappointed over his son's 'feminine inclinations'. Something that has always gotten me in trouble with him, from ditching my toy cars to play with Barbie dolls to being too interested in my mother's makeup.</p>
+
+							<p>"He's going to become a darzi (tailor) when he grows up!" my friends would snicker at my craftiness with the needle and thread.</p>
+
+							<p>The pressure of fitting the stereotypical gender roles followed me everywhere - my teachers' snickers at declaring pink my favorite color, my friends' expressions when I talked about facials and manicures, and my mother's horror on spending more time organizing my wardrobe by color than playing in the street.</p>
+
+							<p>The world that put clear lines between pinks and blues; barbies and hot wheels; being well kempt to manly ruggedness, had me confused. The overwhelming external stimulus was telling me that to fit in and to be accepted I had to hide my true self and mirror what is expected of me.</p>
+
+							<p>I tried to fit in, suppressing the fragments of interests resurfacing ever so often, to avoid eruption of ridicule. I brushed my passions away like pieces of leftover fabric.</p>
+
+							<p>Just like that night when restoring my sister's dream brought my thread and needle out; my dreams broke to the surface again standing in front of the school notice board. My gaze fixed on the poster announcing the male modeling competition; I was already choosing between khaki chinos with crisp white Italian slim fit dress shirt paired with a sleek navy blazer or a black skinny necktie.</p>
+
+							<p>As I filled in the form, I could imagine the field day of sly sarcastic jokes on my effeminate ways. But filling in that form was my catharsis - signing my name was my defiance to carry on a charade to hide my true self.</p>
+
+							<p>Winning the competition took out some of the sting from the jokes but it wasn't until a sense of liberation set in as the scissors of society's disapproval lost its sharp point. And while my father's disapproval still makes me falter in my tracks but I'd rather have him realize that I can be his son and still be my true self instead of trying to become someone neither of us would recognize in the end. The slightest glimmer in the corner of his eyes as I brought in my awards tells me that my hope is not displaced.</p>
+
+							<p>So, one after the other I collected stowed away pieces of myself that didn't fit the society's approval and using the thread of resilience I sewed them together for the fabric of my being to become a true reflection of everything I am and aspire to be.</p>
+						</body>
+						<note>
+							<p>Their absorption in an act of creation that is also an act of love - of craft and cultural tradition, and of kindness for a sibling - is abruptly juxtaposed with the personal cost, i.e. anticipated negation based on gender and class stereotyping. Will they find a creative way to engage difference? They do, showing their courage to embrace who they are without demonizing others who don't. Their experience could inform what our students are learning about building community across contentious divides.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Anonymous</docAuthor>
+						</front>
+						<body>
+							<p>Every person who truly knows me believes that I was born in the wrong century. They call me "an old soul" because I'm a collector, attracted to books, antiques, vinyl records and anything from the 80's. But they also think I am unique in other ways. I believe it is because of the meaningful connections to my two languages and two cultures.</p>
+
+							<p>When we moved into our first American house, I was excited to decorate my new room. The first thing I knew I needed was a place to organize my most cherished possessions I have collected throughout my life. I searched and finally found a bookshelf with twenty-five thick sections that I could build and organize alphabetically. Now the titanium white paint is starting to peel off from all the years it's been used, but that only makes it more endearing to me. Each shelf holds important objects from different parts of my life.</p>
+
+							<p>The top row has my books in Portuguese that I brought from Brazil. They were passed down to me by my great-grandma when she died. Most of them are old poetry books and have handwritten notes from her. Some of the pages are falling apart, but the books mean a lot to me. I start to feel heavyhearted as I remember my great-grandma sitting up in her hospital bed, reading her favorite poem to me, even though she was ill. She was the person who planted the love of reading in me. I live by the values she taught me and the biggest section in my collection of books to date is of poetry, both in English and Portuguese.</p>
+
+							<p>These books are a strong connection to my Brazilian heritage. They also remind me of the time when I was growing up in Brazil, as a member of a large Italian-Brazilian family. We used every excuse to get together and we ate a lot. This is the toughest part of living in another country. Over the years, I had to learn to deal with not being present with my family all the time. And I learned how valuable the time is when we do get together once or twice a year.</p>
+
+							<p>The second and third row has books that I used to learn English. It has some of my "classics", like the whole Harry Potter collection. These books have folded pages, handwritten vocabulary definitions and translations in the margins. It brings back great memories from our old apartment in São Paulo, where my older sister read them to me as a bedtime story. I also see books like The Boston Tea Party and Alexander Hamilton, that I read in order to better understand the history of my new country. It was not easy to leave everything behind and move with my family to the US. It was not easy to enter a new school in a new language. But I persevered and when I look back now, I never felt so comfortable in a place like I feel now. This section of my bookshelf reminds me of an important part of my journey.</p>
+
+							<p>At the bottom of the bookshelf, I have some of my most beloved items. The 1937 Remington typewriter was a gift from my grandfather and is my favorite piece. He gave it to me as I was leaving for the United States. I love the noise it makes when I am typing a letter. I wonder how many countless letters have been written with this typewriter. I use it for special occasions, sometimes writing in Portuguese to my family or in English to my friends. As I grab my favorite Elvis vinyl to play, I can only wonder about the next chapter of my life. I look forward to adding new books, new friends, and a wide variety of experiences to my bookshelf.</p>
+						</body>
+						<note>
+							<p>What I really like about this essay is that it manages to capture multiple aspects of the writer's personality, while not becoming overly cluttered or confusing. By placing one subject (the bookshelf) at the center of the piece, it lends some flexibility to layer in much more detail than if they had tried to discuss a few different interests in the essay. You learn a lot about the person, in a way that isn't in your face- a great thing when you're trying to write a personal essay.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Moqu Alqudah</docAuthor>
+						</front>
+						<body>
+							<p>YouTube taught me everything, from simple tasks I was too insecure to ask about- such as how to correctly toast bread- to what defines me now, being a dancer. I remember one night, I was sitting on the guest room rug with my small Samsung phone, looking up videos. Trying to learn how to do a coffee grinder, a breakdance move. I remained there an hour, tirelessly attempting to learn this one move— that every break-dancer made seem so easy—over and over again. After the extensive and what seemed to be an infinite hour. I did one, jumping up and down in the air with jubilance. I instantly went down for a second attempt, breaking the shackles of failure with maximum momentum. I continued, proceeding counter-clockwise, moving with a kind of elegance that can only be associated with a mindset for success. The rush of excitement blinded me, ending up in smashing the leg of the table. My mom rushed in frantically; she noticed the broken table. A look of disappointment is all I took away from that night. The shackles were fastened back on.</p>
+
+							<p>Growing up, I did not have much to pride myself on. All I could do was dream, imagine, and fantasize. Dream of being other people. Dream of being an incredible dancer. Dream of being an astounding drummer. Dream of being an amazing computer scientist. Dream of being anything at all, but myself. I began my late passion for dancing when I was 12. There was only one thing stopping me from starting early—the shackled opportunities I was given. The opportunities for which I longed to be tangible, I could only dream of. Instead, I was left with nothing of the sort. I had to just teach myself with practice and mere experimentation. That is the root of my art. I only had YouTube to teach me the things I know today. It was a tough road. It still is a tough road. Nothing is changing.</p>
+
+							<p>I am faced with the challenge of competing against people from all around the world for the same position: people that have tutors, classes, workshops, equipment, and the opportunity to travel abroad to learn what they love. I stayed home and worked. I worked twice as hard to obtain only half the expertise they were able to acquire. I worked without aid, gripping onto my drive: the drive to show the world that you can make anything out of nothing.</p>
+
+							<p>Going into King’s as a freshman was difficult, working with my first dance teacher; Mr. Ryuji Yamaguchi, who introduced me to styles of dance that are shameful in Arab culture. He encouraged me to experiment with all elements limitlessly. Months passed by with the Annual dance concert approaching slowly; practicing until the night was upon me. It was time. Time to show the worth of working from nothing but your own passion, time to break the shackles. From contemporary duets, group pieces, hip-hop solos, and Bollywood, I danced my heart out and completed the show with immense success. In the intense moment of the final bow of the show, in which emotions were already running high, I caught a glimpse of my mother’s eyes: her hazy, teary eyes and a divine smile accompanied by the repeated motion of clapping. I came to the realization that the fight was decisively over, the shackles finally demolished. I was fazed. I still am. It is all borne in my head now. Utopia can be found in art. It is the most rewarding work anyone can do, working hours over hours to create something beautiful, something that was ceased to exist until created by you. After all the energy you have has been invested into expressing your thoughts and ideas, you have the sweet satisfaction of being able to finally take a step back, peruse, and say with pride, “I created this”.</p>
+						</body>
+						<note>
+							<p>The essay opens with a seemingly outlandish claim. Although this is risky, he quickly establishes that he can laugh at himself and has the confidence and determination to pursue what gives him joy regardless of limitations (e.g. cultural, financial, fear of the unknown). He tells me a story that shows how he hung in there with the challenge because it meant the world to him and grew from the experience. This tells me he's ready to do the same at our college.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Hayley Minar</docAuthor>
+						</front>
+						<body>
+							<p>Like most teenagers, I am expected to do household chores I would rather avoid. I do my share of feeding the dogs and mowing the lawn, but growing up in a two hundred and thirty-four-year-old tavern has meant that my experiences and responsibilities go well beyond the usual fare—like when I discovered my cats meowing and leaping at two chimney swifts that had fallen down the fireplace and were frantically circling my room. Once, during a Nor’Easter, I woke up to find that snow was blowing through the seams of the house’s original window panes. I swept up the little, swirling drifts on my bedroom floor, taped up the windows, and went back to bed. It was in times like these that I was just a bit envious of my friends’ newer, weathertight homes, but deep inside, I knew I would not trade sleeping in extra layers in my quirky, old Harvard, Massachusetts home for any other place.</p>
+
+							<p>Since my parents bought it as a fixer-upper, I am often recruited to work on projects like glazing windows, spackling sheetrock, and painting rooms. This past summer, I begrudgingly agreed to help repair the mortar joints in the fieldstone foundation of our basement. I hauled an eighty-pound bag of cement and mixed it with water into a peanut butter-like consistency. I grabbed a gob from the wheelbarrow and got to work stuffing it into the deep crevices between the jumble of stones, troweling it smooth and brushing it to create a finished texture. The hours spent working, much of it on my hands and knees, gave me a lot of time for self-reflection. Undisturbed by text messages or buzzing FaceTime requests, I allowed my mind to wander to the far reaches of my imagination in the quiet solitude of the cellar. Sometimes I reflected on what I should have said in a conversation with a friend, thought through an argument around a current political issue, or pondered ways to frame my essays for summer reading assignments.</p>
+
+							<p>Working with my hands, I appreciated the art of forming and sculpting the cement into place, realizing that it was just as creative a process as writing, editing and reworking my essays and poems. It was an iterative and tiring process to get it right. Dripping with sweat, the grinding physical effort from having to work quickly before the cement hardened mirrored my exhaustion in a race I had rowed in last year— although the weather conditions had been very different. At the Head of the Fish Regatta, I had rowed for three miles through the cold, driving rain, facing a fifteen miles-per-hour headwind—feeling as if my arms and legs were on fire—in order to finish.</p>
+
+							<p>Good mortaring requires technical precision, speed and strength. I needed to mix the mortar in the correct proportions; work carefully so I did not miss any gaps; and most of all, I needed to persevere, working until the entire wall was repointed. Eventing requires a similar mastery of multiple skills in order to succeed in the three distinct phases of competition. In dressage, my buckskin horse Eli and I needed to work together as one, in calm precision and balance; in show jumping, we needed the focus and technical skills to count strides and launch at the right moment; and in cross-country, we needed the strength and endurance to gallop several miles over fences, across ditches, and through water obstacles.</p>
+
+							<p>Whether handling a bucket of wet cement or a green horse, I recognized that having the patience and determination to keep improving despite hardship, tedium or discomfort was essential to reach any mental or physical goal, be it winning a competition, writing an essay or rebuilding a wall. Standing back from the finished fieldstone wall, I basked in the accomplishment—not just of finishing the chore—but of discovering the zen in the art of mortar maintenance.</p>
+						</body>
+						<note>
+							<p>Hayley leverages her unique upbringing in a fixer-upper house to provide us with a clear illustration of a typical day in her life. Her essay is detailed and builds a concise narrative without being ostentatious or distracting. By connecting her lifelong experiences with house projects to other important activities in her life, she provides ample evidence for the values that have shaped her most authentic character.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Rebecca Shapiro</docAuthor>
+						</front>
+						<body>
+							<p>The air thickened with red dust as I walked into the basement of Washington Studio School for my first sculpting class - a way to be creative after a stressful day. As I pulled back a thick curtain to enter, I looked around the room, examining the surfaces, all covered in a thin layer of that same dust. The bookshelves behind me were sporting a small collection of sculptures.</p>
+
+							<p>We were given a 4’ by 6’ block of clay to mold into a woman that was sitting in front of us. I stared at the block of clay, unable to imagine how to start. The woman next to me immediately started shaping her rust-colored slab. She took clumps from the bottom of the piece, adding it to the top, taking pieces away to form shoulders and arms. I spent more than an appropriate amount of time watching her work. I was amazed by the way she could see the woman inside her block of clay.</p>
+
+							<p>I turned back to my sculpture and gingerly shaved off a piece of clay from the top corner. I continued to work at that corner and that corner only as my instructor travelled around the room, visiting each of his students to offer tips and suggestions. When he made it to my table, he glanced at my piece. I had transformed the 4’ by 6’ rectangular prism into a pentagonal prism. He took one of my tools and started shaving away clay and suggested that I remove even more. He continued to visit the rest of his students as I continued to shave miniscule pieces of clay off of my now hexagonal prism.</p>
+
+							<p>I wanted to act on his advice, I wanted to take this opportunity to learn, but I did not want to do something wrong. I was afraid of the permanence of my choices. This fear continued to hold me back throughout the 3-hour lesson. By the end of the class, rather than my piece looking like the model sitting in front of me, my piece looked like Mario from the 1985 Super Mario Bros. I left the class, wondering when I started letting fear control my actions.</p>
+
+							<p>I remembered that I used to quite literally jump into new situations. The first time I went on a chair lift, for example, I had been so excited to “hit the slopes” that instead of waiting for the chair lift to reach the end, I leaped off 8 feet too soon. Luckily, my dad caught me and held onto me until we reached the end of the lift.</p>
+
+							<p>The next week, I was determined to reclaim that feeling of fearlessness to make progress on my sculpture. This time, I took out clumps, rather than slithers. When my instructor reached my table, he pointed to plenty of problems with my piece. The arm was too high, the legs looked like a yeti’s, and the head took the shape of a balloon. But I realized that at least I was doing it — and I was enjoying it, too.</p>
+
+							<p>My final piece was in no way a replica of the model who sat in front of me during those lessons: it was riddled with errors. But, while the person I was when I first entered the classroom may have hated the fact that she could see all the mistakes in her final structure, I now appreciate that I can see them, and that I can see how far I’ve come since making them. No matter how deep under the surface of my sculpture the mistake might be, I know it is there. Every crack, air bubble, slip and score, is a working component in my sculpture. And I know that, like my sculpture, I’ve been shaped by my mistakes, too: as long as I want to keep becoming myself, I’ll need to keep making them.</p>
+						</body>
+						<note>
+							<p>This essay immediately ensnares the reader with its vivid imagery and transports them to the sculpting class. Rebecca’s reflection upon herself and the growth mindset truly encapsulates who she is as an individual, flaws she recognizes, and how she learns and grows from opportunities. The insight truly helps us get to understand Rebecca at her core and provides context for what she would bring to campus.</p>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Lorena De Leon</docAuthor>
+						</front>
+						<body>
+							<p>Had I written this essay three years ago, I would have written with utmost passion about my desire to be a cardiologist. I would have shared that cardiology had lifted the veil placed on my eyes to blind me from my true essence - saving lives. I would have continued to share that it exhibited two of my most accented strengths: my attention to detail and my ability to value each person if though their soul was a reflection of my own. However, most importantly, I felt it was my destiny to grant others what my mother’s cardiologist had granted her: a healthier and rejuvenated life. It is three years later and I do not have a desire to be a cardiologist. The dream I had for cardiology was solely a fabrication of what I believed to be most just.</p>
+
+							<p>I have a way with words, and I am lyrical. My sweet symphonies are the essence of my being, yet I am not an aspiring songwriter nor am I an aspiring musician. I am a writer. With each word I craft, a part of my soul lives on beyond my years. It turns out that the magic of my words was so powerful, my soul had been deceived. For years, I had been writing about cardiology and science as though the letters c-a-r-d-i-o-l-o-g-y were coursing through my blood, and were tattooed to my heart. Dreams consisted of me writing novels of my career as a cardiologist, sharing my encounters and experience of being a cardiologist. My love for writing had become so pronounced that the passion I had been composing with was mistaken as a passion for cardiology.</p>
+
+							<p>As a child, I never acknowledged writing as anything more than a hobby. When I would put pen to paper I would solely describe it as just writing. It was never just writing. It was my life; it is who I am. Despite my undying love for this artform, I would tell myself that cardiology was what I wanted, even with the distance and disconnect I felt with cardiology. Regardless of how scholarly and recognized cardiology is, I had felt as though I was settling. However, that all changed.</p>
+
+							<p>It was a single sentence that unlocked the volta of my life’s story: If you do something you love, you never have to work a day in your life. This sentence, which I heard from an advisor, redirected my thoughts from who I was to who I wanted to be. It was in that moment that my initial thought was not of cardiology, it was of an image of life beyond its limits and a world of wonders, pen to paper, and the flight of young Lorena’s dreams. It was an image of writing.</p>
+
+							<p>I had always feared that no one would understand my love for writing, nor the bond I had formed with writing. When speaking with a person who does not possess my same passion, it’s as though our conversation is not a conversation at all, but rather a sharing of different languages. They cannot grasp the idea that writing is not solely descriptive language, it is not “red, yellow, blue,” as my aunt would describe it. Writing is the core of my being. It is engraved in my soul. Without it, I would not exist. Writing could never restrain me, because the one thing
+							it offers me that nothing else in the world ever could was the ability to not only think however I wanted to think, but to also be whatever I wanted to be.</p>
+
+							<p>I had begun a story I had praised for ten years of my life; it was a story I thought I knew the words to like the back of my hand, but the words had drifted and my dream of cardiology had become blurred by my true love and destiny - becoming a writer.</p>
+						</body>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Matthew Giuttari</docAuthor>
+						</front>
+						<body>
+							<p>At this point in my life, I am used to the chuckles I receive upon telling my friends that I, in fact, love Legos. Growing up in a house of four children was a hectic environment to say the least; an escape from the chaos of siblings was much needed. As a kid, sitting down and concentrating on one task was never my intention, rather I was constantly energetic, chasing and being chased by my siblings.</p>
+
+							<p>Building Lego sets had always been a way to minimize any stressors that were going on at the time, or to simply relax and enjoy the challenge. My first Lego set was given to me at a very young age, my seventh birthday, and although excited, I was puzzled with what I was supposed to accomplish. I knew that Luke Skywalker was going to need a little more assistance than I could offer at that age, so after countless hours of struggling and persisting, I inevitably succumbed to the numerous offers of help. Each birthday and holiday moving forward, I requested Legos in order to perfect my ability, and each time I gained expertise. Finally, I encountered my own “Eureka!” moment, individually completing my first kit, a miniature replica of the Seattle Space Needle, solely on willpower and sheer excitement.</p>
+
+							<p>My worn, but comfortable bedroom floor had become my safe haven for letting my mind wander and to create sculptures I would have never thought of if it hadn’t been for my obsession with those miniscule, plastic blocks. I hadn’t usually been the most creative, artistic person; however, when I sat down in my room next to my collection and freed my mind, I suddenly become an artist of my own definition. Soon, as I got older, more unique ideas for pieces flooded my mind rather than following strict instructions. These ideas had resulted in the possibility of designing and constructing certain buildings and entities, of course without any real-world consequences. My bedroom floor eventually turned into a skyline resembling that of New York City, skyscrapers grazing the top of my bed and Rockefeller Center spanning from my desk to my closet. Arriving home late from school or a strenuous practice, I was relieved to lay down next to my meaningful, personalized city.</p>
+
+							<p>I rarely construct Lego structures nowadays; however, my obsession with those tiny bricks embedded a passion in me that will never cease to follow me. Arriving to a boarding school as a first-year student, I was extremely hesitant and nervous. Though I would soon be a part of a team, I sought an escape from my anxiety of being away from home and especially my bedroom. Though I hadn’t brought along any of my Legos, (I’m sure you can imagine why), I signed up for a new class which taught the basics of ceramics and sculpting figures. Ceramics was an entire new entity to me and I enjoyed every second of it. I had been constructing simple bowls and plates to ease myself into the new medium I was using. Soon, however, I became more confident and adventurous with my designs. After hours in the studio at school, I ultimately transferred my projects back to my personal studio, my bedroom, to join the company of my surrounding Lego projects. Not only providing me with entertainment, Legos left an everlasting mark on my capacity to experiment with new endeavors I would rarely attempt.</p>
+
+							<p>Legos hold a special place in my mind and my heart due to the effect they have had on my curiosity, creativity and overall optimism. I will continue to design my sculptures, my essays, and my future, which is certainly guided by my imagination. Having constructed those guided, age appropriate sets and eventually designing unique pieces, I developed a knack for sculpting and imagining brand new ideas I transfer into my everyday life.</p>
+						</body>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Julissa Roldan</docAuthor>
+						</front>
+						<body>
+							<p>Hurricane Maria devastated Puerto Rico, and my Massachusetts city had also been torn apart. In a city where nearly half of the population is Puerto Rican, the destination of people fleeing the island had immediately come into question, “Why are they coming here? Our schools already don’t have enough books for our students, never mind Puerto Rican refugees.”</p>
+
+							<p>These are words out of my French and Irish uncle’s mouth. As he looked in my brown eyes and proclaimed his son’s lack of an AP English book was more important than the life and well-being of a child that looks like me.</p>
+
+							<p>It is enlightening to begin to take notice of the ignorance that surrounds your identity. It is eye-opening to hear words of hate and intolerance spew from the mouths of people you love, people who claim to love you. I have heard people express how they really feel when they forget about my dark complexion and let a joke slip, to follow up with, “Well not you, you're not really Puerto Rican."</p>
+
+							<p>To be seven years old and shrouded in a feeling of discomfort for who you are; making an effort to sound and act “white” among my white family and friends. Thanksgiving with my blue-eyed and freckled cousins was an event that displaced me. My Abuela’s house was where my Puerto Rican cousins flourished. They spoke fluent Spanish and shook their heads when I asked what they were saying. I “didn’t care” about my culture to them.</p>
+
+							<p>It is in this limbo that I find myself more aware of the dubious eyes on me when I’m asked if I am Muslim or Italian (as if Muslim is an ethnicity). When they compliment my “different” name, their eyes widen when they learn that I am from the “whiter” side of the city, but nod in understanding when I clarify that my Mother is white. I notice that these glances are consonant with the fact that the grocery store I work at in the neighboring town made thousands of dollars in their donation cups for Hurricane Harvey victims, but not one mention of Puerto Rico’s disastrous conditions. It is from these glances that I realize both these adversities are not of equal importance to the store where I was one of four Hispanic employees.</p>
+
+							<p>I am Puerto Rican and Irish and French and Polish and all these backgrounds have allowed me to see unique perspectives, but they are not a single definition of me. I am a daughter, a student, a friend, a sister. I am everything I love and every book I've read and all the people I've helped and all the places I've traveled. I am all of my passions and the closed minds I intend on opening and the thirst for life I intend on quenching.</p>
+
+							<p>I have grown up with a feeling of exclusion from both sides of my heritage, yet in the process of fighting for a sense of belonging I have embraced myself for more than the color of my skin or the accent of my father. My identity is so much more than an uncomfortable glance from a person who can't place my nose with a nation. I am more than a prejudice comment.</p>
+
+							<p>What I have truly come to understand by living at the intersection of two very different situations is how ignorance develops so easily from not being able to empathize. My white uncle will never know what it is like to be a minority. He will never feel the stares I have felt, he will never be called a spic, he will never be disadvantaged for his light complexion. It is only when people place themselves as close as possible to the reality of others do they begin to rid themselves of the subconscious prejudices our society places upon us.</p>
+						</body>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Emma Andrikidis</docAuthor>
+						</front>
+						<body>
+							<p>Looking out at the Mediterranean Sea, I delight in each bite of the kolokithakia tiganita my Yiayia had made for lunch. In the small fishing village of Methoni, Greece, my grandmother wanders through her garden each day, selecting plump tomatoes, peppers, zucchinis, and eggplants from their respective vines. My Pappou voyages far into the Mediterranean Sea, hopeful that his worn yellow fishing net will bring him luck that day. Continuing this daily routine from afar, my Baba hand-picks produce at the grocery store and closely inspects fillets at the fish counter. Each ingredient he buys is intentional, and excess is discouraged. At home, my pantry consists of spare bits and pieces, usually resulting in lopsided, but carefully crafted open-faced sandwiches after school. Despite living 4,697 miles away from Methoni, the Greek values ingrained into my upbringing serve as a subconscious guide to my everyday life.</p>
+
+							<p>Each summer day in Methoni ends with a wave of satisfaction, a feeling rarely felt at the end of ordinary days in Massachusetts. In Greece, there may not be anything to show for at the end of the day besides the lasting memories that had been formed. Yearning to experience that same sense of fulfillment, I assured myself I would make adventure this summer. I found myself continually traveling to Walden Pond, a place I would visit often as a child, and sporadically every summer since then. After reading Thoreau’s Walden last year, I was reminded of how close I was to Walden Pond, and inspired by the notion that I was in control of my own life. When I would return home, I would revel in that same feeling of gratification that I felt in Methoni every night, content with the knowledge that I had spent my hours deliberately.</p>
+
+							<p>I like to think I spend my time with direction. So pleased am I that I grasp the concept that, as sung by Henry David Thoreau, “to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust." Without fail, I have read every piece of literature I have been assigned, using my time wisely. To not read it would be to cheat myself of insight that could have been gained. Most school nights I sit in the middle of my bed typing on my keyboard, as the notes of my father’s bouzouki, a type of Greek guitar, echo in repetition. I approach each task, no matter the scale, with the same sense of tenacity and diligence. On more than one occasion have I been playfully ridiculed by my friends for my ornately crafted birthday cards or elaborate planning of day trips. However, this does not diminish my understanding of the vital need to “live in the present."</p>
+
+							<p>Mesimeri, meaning midday, is a special time in Greece. A collection of moments specifically allotted to enjoying a meal with family, and when rest in encouraged. Without the luxury of a designated mesimeri, I have been compelled to put aside my own time to live presently. Whether it be a trip to my favorite boba tea shop, or merely to the local 24-hour CVS, I put aside the task at hand, almost always accompanied by a dear friend. During these outings, I find “eternity in each moment” and return to my obligations with a new sense of rejuvenation.</p>
+
+							<p>I have learned to find satisfaction in deconstruction. Sometimes the whole is greater than the sum of its parts, but many times the parts themselves are equally as outstanding. My life is made up of many parts, some more outstanding than others. For this reason, I will savor my one perfect lunch, trips for boba with friends, and long days spent at Walden Pond. With each new experience I find myself influenced by Methoni, and with this Greek wisdom I look forward to finding the extraordinary hidden within the ordinary.</p>
+						</body>
+						<note>
+						</note>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Charlie Bernicke</docAuthor>
+						</front>
+						<body>
+							<p>Pasco’s dark brown eyes lit up as he saw me walk into his classroom on the third floor of Burlington High School. “Charlie, Charlie!” he exclaimed.</p>
+
+							<p>“Hey, buddy,” I said as I pulled up a chair next to his desk. “What are you working on today?”</p>
+
+							<p>Pasco began to play with the zipper on my vest, reluctant to pull out his long division homework that he had been struggling to complete for the past two weeks. “C’mon Pasco, I know we’ve got some work to do,” I persisted.</p>
+
+							<p>“Okay, but why are you helping us?” Pasco asked. This question caught me off guard.</p>
+
+							<p>I had been tutoring Pasco and his class of around 15 Burundian children at the Kirundi school for the past year and a half. This school aims to preserve the Kirundi language in the Burundian community in Burlington for kids between the ages of 6 and 13. Aline, a refugee from Burundi, founded the program, which runs every Saturday at Burlington High School.</p>
+
+							<p>My mother became involved with the program in 2012, teaching French to the first and second graders. At the time, Aline saw these young students falling behind in math, science, and English in their full-time school and turned to my mom in desperate need of advice. I offered to help tutor, and began working with kids every Saturday for two hours. I introduced the program to a friend, and together we created a club called the Refugee Outreach Club, or ROC, which now has over 30 members from my high school. In addition to tutoring at the Kirundi school, we help organize events to support refugee families throughout the greater Burlington area.</p>
+
+							<p>Struggling for an explanation to Pasco’s question, I explained what the Refugee Outreach Club was.</p>
+
+							<p>“But I’m not a refugee, I’m from Burlington,” Pasco explained.</p>
+
+							<p>I realized that Pasco didn’t want to be seen as a “refugee.” He had grown up in Burlington, and considered it his home. By labeling him as a “refugee,” I was no longer helping him as an older friend, or mentor, rather as a white privileged teenager.</p>
+
+							<p>I proceeded to help him complete his homework. But in the following weeks, I kept thinking about this interaction. I felt as though I had made him feel excluded, that he was charity work to make a college application look more attractive.</p>
+
+							<p>“Refugee” is a loaded term no matter what your political perspective is. As Americans, we tend to look at refugees either as intruders and threats to our society, or as poor, marginalized groups that need charity. These interpretations create a distance between refugees and Americans.</p>
+
+							<p>Pasco sparked me to take action, and I began to think of changes that we could make to the ROC tutoring program that would bring both the tutors and students together as peers. The first change that I felt was necessary to make was to find a substitute for the term “refugee.” We came up with the idea of using the term “New American,” and implemented this into the tutoring program. I also came up with ideas that could foster relationships between the students and tutors. ROC now plays basketball and other gym games with the students at the Kirundi school, and before each holiday break we organize a party or meal. In the following months after making these changes, I began to see how meaningful it was to the New Americans that the tutors were able to connect to them as friends and peers. Pasco and I now play basketball together, share food, and stay connected on social media. I am now not just a tutor, but a genuine friend.</p>
+
+							<p>My involvement in ROC will not stop here; in a country that is struggling in countless ways with its views on refugees, I am determined to continue this kind of work throughout my college years and beyond.</p>
+						</body>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Kelley Spy Frumer</docAuthor>
+						</front>
+						<body>
+							<p>For two years, I ate chicken nuggets for lunch every single day. Not just any nuggets – Bell and Evans brand – hand-fried by my dad. Growing up, I could not allow foods to touch on my plate. I kept my foods separate and the Wesson Oil Company in business.</p>
+
+							<p>This food mingling phobia grew with me, developing into full-blown nugget dependency by high school. Nuggets made lunches easy because if they were all I packed, I didn’t have to worry about cross-contamination. But while I was a 16-year-old girl who was afraid of foods touching on my plate, I had emerged as a fearless student. I took every challenging course offered, the most intriguing of which was Chinese. It quickly became apparent to me that there was only so much I could learn about China, its language, history, and culture, in a classroom. I was no longer satisfied with the standard, formulaic sentences from my workbooks; I needed to experience real Chinese slang, as used in the streets. I applied to School Year Abroad’s summer cultural immersion program.</p>
+
+							<p>My first time leaving North America, and my second time on a plane, I traveled to China. As I prepared to explore China, the phrases “Sorry, I won't eat this,” and “Please put it on the side,” played over and over in my head, Mandarin tones perfected. Exiting the plane, I tried to think only of the sounds and sights of Beijing marketplaces, not of the potentially fearful encounters with non-nugget based cuisine. In Beijing, skyscrapers, tall enough to be lost in the haze of pollution, replaced my clean Maine mountains and pines.</p>
+
+							<p>During the first meal at my host family’s home, I watched in despair as a ladle full of fish and deep brown sauce marred the perfect expanse of plain rice in my bowl. I scraped the fish to the side as quickly as possible and mentally bleached the rice white again.</p>
+
+							<p>The notion of exchanging partitioned plates and chicken nuggets for single-welled porcelain bowls full of various foods all thrown together did not sit well with my stomach.</p>
+
+							<p>The next day at school, I saw a boy scoop rice into the dregs of his chicken paw sauce. I watched with fascination as the yellowy sauce seeped into the rice. My neck tightened in anticipation as he drew the food to his mouth, chomped an immense bite, then smiled down at his food. I looked at my own bowl. Not a single grain of rice lay outside of the perfect mound I had formed in one quadrant, safely out of reach of the tarnishing chicken paw.</p>
+
+							<p>Timidly, I pushed my rice into the center of my bowl and peered at it as the sauce was absorbed. I forced myself to ignore the childish voice in my head telling me that the food was compromised. “When in Rome!” I thought to myself. I ate the rice.</p>
+
+							<p>Shockingly, it tasted just like rice.</p>
+
+							<p>At lunchtime the following day, I didn’t wince as the lunchman dripped sauce directly on my rice. I could have easily eaten plain rice, noodles, or even the readily available ‘Western’ food, but I made the decision to try everything that I was offered. I put all the new dishes in a single bowl, courses overlapping and piled high, flavors and textures melding together. Partially out of respect for the lunchman, and partially to prove something to myself, I threw out my rehearsed phrases and welcomed not only the broadening of my palate, but also the experiences that followed.</p>
+
+							<p>Six weeks later, when I returned home, I smiled to myself as I listened to my mom gasp as she watched me push the sauce from the side of my plate directly on top of my pasta. Unbeknownst to her, I had ventured far beyond chicken nuggets and had scoured Beijing’s hidden street markets in search of chicken feet.</p>
+						</body>
+					</text>
+					<text>
+						<front>
+							<docAuthor>Ezra Norris</docAuthor>
+						</front>
+						<body>
+							<p>My desk looks straight out of Mad Men. Its black-lacquered finish and angled legs give it a 60’s feel amid the tan carpeting and orange walls of my living room. A protective mat, coated with Sharpie marks and X-acto knife gauges, lies on top. When I was little, surrounded by my father's paintings and stepmom’s detailed pencil drawings, I would sit for hours at the desk, feet dangling off the chair, and repeatedly listen to Harry Potter on tape while doodling with my dad’s markers or building houses from Legos. Just down the hall is the Christmas gift I gave my dad at age fourteen, a portrait of Wallace Stevens, an average-looking man. In hindsight, I find my choice to draw him funny, but he’s my dad’s favorite poet. “Another artist in the family,” my grandpa teased, as I presented this gift on Christmas morning. The comment threw me. I wondered, am I an artist?</p>
+
+							<p>I have been surrounded by art my whole life; my parents met in art school and still paint, in my dad’s words, as a “personal artistic investigation.” Growing up, every Tuesday night, my dad would give me art lessons. While he was patiently explaining how to shade an object or mix acrylics, I was slightly envious of the families watching NCIS or American Idol. Whether I was putting together outfits for my sister or designing a layout for my mom’s office, this art-filled environment has shaped me into a visual thinker. But it wasn’t until high school that I realized my love for visual problem-solving could become more than just making sleek posters and PowerPoints.</p>
+
+							<p>In my graphic design class last spring, I was assigned a home improvement company for the local newspaper’s create-an-advertisement competition. I knew the ad had to be eye-catching, but also had to relate to the company. After hours of sketches and hand cramps, I designed a house made of tools, with a hammer and wrench for walls and a ruler for a chimney. I ended up winning the grand prize, which felt like reassurance that this newfound interest was something I should continue. This past summer I had similar feelings while at a Cornell summer course called Design Immersion. It introduced me to many design disciplines, and I loved the challenge of creating a lamp out of only bristol paper. The final design, looking like a hibachi-onion-volcano, was both functional and visually pleasing. I felt I was glimpsing my future.</p>
+
+							<p>Reflecting on what brought me here, I see that my parents gave me the foundation of my artistic abilities. However, we are now different kinds of artists. My dad, for example, can’t help me in the same way he could during our art lessons years ago. Interning for a book designer, I now use InDesign to make decisions concerning font consistency and text formatting around their corresponding pictures, a little different from his abstract oil paintings. So, when my grandpa called me an artist on Christmas morning years ago, I now agree, but more specifically, I am a designer.</p>
+
+							<p>On my eighteenth birthday, I sat at my desk as my dad presented me with my gift: a toolbox of art supplies, which he called, “the essentials for every artist.” Until now, I’d always used his paintbrushes and pencils. Even though the toolbox contained only basics — charcoal, acrylics, paper, and pencils — it felt like a loving nudge out the door, showing he knows that I’m on a different artistic path, ready to become my own person.</p>
+
+							<p>When I’m in college, I’ll miss my dad’s reminders to start loosely and work towards more detail, my mom’s lessons on the way shadowing affects form, and that my dorm desk probably won’t look like it’s out of Mad Men. But I’m excited to grow as a designer when I leave home, valuing the gifts my parents gave me.</p>
+						</body>
+					</text>
+			</group>
+		</text>
+		</TEI>
 		<TEI xml:id="XXXX">
 			<teiHeader>
 				<fileDesc>
@@ -544,7 +878,41 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 					<sourceDesc>
 						<bibl>
 							<ref target="XXXXXXX"/>
-							<state type="USNRank" key="XXXXXXX"/>
+							<state type="USNScore" key="XXXXXXX"/>
+							<state type="domain" key="edu"/>
+							<date when="2020">2020</date>
+						</bibl>
+					</sourceDesc>
+				</fileDesc>
+			</teiHeader>
+			<text>
+				<group>
+					<text>
+						<front>
+							<docAuthor>Heqing “Amy” Zhang</docAuthor>
+						</front>
+						<body>
+							<p>XXXX</p>
+						</body>
+						<note>
+						</note>
+					</text>
+			</group>
+		</text>
+		</TEI>
+		<TEI xml:id="XXXX">
+			<teiHeader>
+				<fileDesc>
+					<titleStmt>
+						<title>XXXXXXXXXXXX</title>
+					</titleStmt>
+					<publicationStmt>
+						<authority>XXXXXXX</authority>
+					</publicationStmt>
+					<sourceDesc>
+						<bibl>
+							<ref target="XXXXXXX"/>
+							<state type="USNScore" key="XXXXXXX"/>
 							<state type="domain" key="edu"/>
 							<date when="2020">2020</date>
 						</bibl>
@@ -559,70 +927,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 								<titlePart>Sheboygan, Wis.</titlePart>
 							</docTitle>
 							<docAuthor>Heqing “Amy” Zhang</docAuthor>
-						</front>
-						<body>
-							<p>XXXX</p>
-						</body>
-					</text>
-			</group>
-		</text>
-		</TEI>
-		<TEI xml:id="XXX">
-			<teiHeader>
-				<fileDesc>
-					<titleStmt>
-						<title>XXXXXXXXXXXX</title>
-					</titleStmt>
-					<publicationStmt>
-						<authority>XXXXXXX</authority>
-					</publicationStmt>
-					<sourceDesc>
-						<bibl>
-							<ref target="XXXXXXX"/>
-							<state type="USNRank" key="XXXXXXX"/>
-							<state type="domain" key="edu"/>
-							<date when="2020">2020</date>
-						</bibl>
-					</sourceDesc>
-				</fileDesc>
-			</teiHeader>
-			<text>
-				<group>
-					<text>
-						<front>
-							<docAuthor>XXXXX</docAuthor>
-						</front>
-						<body>
-							<p>XXXX</p>
-						</body>
-					</text>
-			</group>
-		</text>
-		</TEI>
-		<TEI xml:id="XXXXXX">
-			<teiHeader>
-				<fileDesc>
-					<titleStmt>
-						<title>XXXXXXXXXXXX</title>
-					</titleStmt>
-					<publicationStmt>
-						<authority>XXXXXXX</authority>
-					</publicationStmt>
-					<sourceDesc>
-						<bibl>
-							<ref target="XXXXXXX"/>
-							<state type="USNRank" key="XXXXXXX"/>
-							<state type="domain" key="edu"/>
-							<date when="2020">2020</date>
-						</bibl>
-					</sourceDesc>
-				</fileDesc>
-			</teiHeader>
-			<text>
-				<group>
-					<text>
-						<front>
-							<docAuthor>XXXXXXX</docAuthor>
 						</front>
 						<body>
 							<p>XXXX</p>
