@@ -866,7 +866,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 			</group>
 		</text>
 		</TEI>
-		<TEI xml:id="XXXX">
+		<TEI xml:id="XXXXX">
 			<teiHeader>
 				<fileDesc>
 					<titleStmt>
