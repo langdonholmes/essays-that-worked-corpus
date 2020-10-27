@@ -10,19 +10,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 				<author>Langdon Holmes</author>
 			</titleStmt>
 			<publicationStmt>
-				<p>
-          All works collected here are publically available. Each source is grouped and cited. The corpus itself may be used and modified freely, assuming the original distributors are referenced. </p>
-        <p>
-          This is a specialized corpus created for the purpose of analyzing personal statements.</p>
-				<p>
-	          This document contains personal statements published by commercial entities</p>
+				<p>All works collected here are publically available. Each source is grouped and cited. The corpus itself may be used and modified freely, assuming the original distributors are referenced.</p>
+        <p>This is a specialized corpus created for the purpose of analyzing personal statements.</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>
-          The sources for this corpus are public websites, mostly .edu addresses that have example personal statement available to prospective students.</p>
-				</sourceDesc>
-			</fileDesc>
-		</teiHeader>
+				<p>The sources for this corpus are university websites that have example personal statement available to prospective students.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
 		<TEI xml:id="JHU2020">
 			<teiHeader>
 				<fileDesc>
